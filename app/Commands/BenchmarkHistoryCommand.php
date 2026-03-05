@@ -19,12 +19,6 @@ final class BenchmarkHistoryCommand
             finalistsFile: __DIR__ . '/../../leaderboard-finalists.csv',
         );
 
-        $this->processLeaderboard(
-            leaderboardPath: 'leaderboard-single-thread.csv',
-            historyFile: __DIR__ . '/../../leaderboard-single-thread-history.csv',
-            finalistsFile: __DIR__ . '/../../leaderboard-single-thread-finalists.csv',
-        );
-
         $this->success('Done.');
     }
 
