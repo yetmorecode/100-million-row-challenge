@@ -73,7 +73,7 @@ final class BenchmarkHistoryCommand
 
         usort($historyData, fn($a, $b) => strcmp($a['entry_date'], $b['entry_date']));
 
-        $excludedBranches = ['brendt', 'ghostwriter'];
+        $excludedBranches = ['brendt', 'ghostwriter', 'louisabraham'];
         $currentBestByBranch = [];
         $bestCheckpoint = [];
         $checkpointReachedAt = [];
