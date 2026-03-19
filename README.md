@@ -13,7 +13,7 @@
 - Three-month JetBrains AI Ultimate license
 - One-year Tideways Team license
 
-**🥈 Second place**: [AcidBurn86](https://github.com/tempestphp/100-million-row-challenge/pull/268)
+**🥈 Second place**: [AcidBurn86](https://github.com/tempestphp/100-million-row-challenge/pull/203)
 
 - One PhpStorm Elephpant
 - One Tideways Elephpant
